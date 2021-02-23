@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="main_photo_desc">Describe of main photo for tour item row</string>
+    <string name="ex_date">DD/MM/RRRR - DD/MM/RRR</string>
+    <string name="place_example">place / place / place</string>
+    <string name="resort_example">Resort holiday Complex</string>
+    <string name="price_example">10000</string>
+    <string name="currenct_example">zl/os</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="opis_hotelu_option">Opis hotelu</string>
+    <string name="lokalizacja_option">Lokalizacja</string>
+    <string name="wycieczki_option">Wycieczki</string>
+    <string name="hotel_polozenie">Hotel znajduje się w miejscowości Qawra w odległości 300 metrów od plaży skalistej Tafra Ben. W pobliżu hotelu mieszczą się bary, sklepy i restauracje. Z hotelu do przystanku autobusowego jest ok. 100 metrów odległości.</string>
+    <string name="polozenie">Położenie: </string>
+    <string name="pokoje">\nPokoje: </string>
+    <string name="hotel_pokoje">W hotelu znajduje się 29 w pełni wyposażonych pokoi. W pokojach można zakwaterować maksymalnie 3 osoby dorosłe (istnieje możliwość sprawdzenia innych opcji zakwaterowania na zapytanie). Wyposażenie - sypialnia, aneks kuchenny wyposażony w lodówkę i kuchenkę, sejf, sprzęt do prasowania, telewizor z kanałami satelitarnymi, łazienka, suszarka do włosów.: </string>
+    <string name="hotel">\nHotel: </string>
+    <string name="hotel_hotel">Hotel zapewnia całodobową recepcję oraz przechowalnię bagażu. Hotel oferuje klimatyzację, windę, WiFi za dodatkową opłatą, parking i  stół do tenisa stołowego (za dodatkową opłatą).: </string>
+    <string name="zlocal_zlote_piaski">Zlote Piaski to obok Slonecznego Brzegu, najchetniej odwiedzany region turystyczny w Bulgarii. Tak samo nazywa sie najwieksza miejscowosc wypoczynkowa w tej okolicy. Zlote Piaski to kurort stosunkowo mlody, poniewaz jego budowe rozpoczeto dopiero w 1957 roku. Zlokalizowany jest na wybrzezu Morza Czarnego, w odleglosci zaledwie 17 km na pólnoc od Warny, do której mozna dotrzec samolotem na miedzynarodowe lotnisko. W Zlotych Piaskach kazdy znajdzie cos dla siebie, dlatego bedzie to doskonaly kierunek na wakacje dla rodzin z dziecmi, jak i dla osób mlodych, zadnych wrazen. Znajduje sie tu wiele nocnych klubów i dyskotek, barów i sklepów z pamiatkami przy glównym deptaku nad morzem, a takze przystan jachtowa, baza jezdziectwa oraz park wodny. W okolicy wybudowano pole golfowe i arene do paintballu. Zlotym Piaskom przyznano Blekitna Flage, za przyjaznosc ekologii i turystyce. Najliczniejsza grupa turystów przyjezdzajaca na wczasy do Zlotych Piasków sa Niemcy, Francuzi i Brytyjczycy, choc i Polaków jest wielu, zwlaszcza w sezonie letnim. Miejscowosc oferuje zakwaterowanie w róznego rodzaju obiektach noclegowych. Sa tu zarówno 5-gwiazdkowe, luksusowe hotele z kasynami, jak i sredniej kategorii hotele i apartamenty wakacyjne dla turystów z mniej zasobnym portfelem, m.in. w dzielnicy kurortu - Czajka.</string>
+    <string name="zlote_piaski">Złote Piaski</string>
+    <string name="pobiti_kamyni">Pobiti kamyni</string>
+    <string name="pobity_kamyni_desc">fantastyczny rezerwat znajdujący się 18 km od Warny widoczny jest już z daleka, gdyż charakteryzuje się tym, że na rozległej pustyni wśród wzgórz wyłaniają się z piasku robiące wrażenie kamienne kolumny o grubości 1-3 m i wysokości 7 m. Na ich temat istnieje kilka różnych hipotez, które okrywają tajemnicą ten stworzony przez naturę, a może przez człowieka pomnik przyrody</string>
+    <string name="rezerwat">\nRezerwat przyrody Jaiłata i Kamienny Brzeg</string>
+    <string name="rezerwat_desc">atrakcyjny pod względem turystycznym zakątek, w którym można podziwiać prastare jaskinie wydrążone w okolicznych klifach służącym ludziom pierwotnym za domostwa. Do dziś miejsce to jest źródłem informacji dla archeologów. Będąc w okolicy warto także zobaczyć ruiny rzymskiej fortecy, gdzie podobno urodził się Orfeusz.</string>
+    <string name="nesebyr">\nNesebyr</string>
+    <string name="nesebyr_desc">jedno z najbardziej malowniczych miejsc wybrzeża położone jest na skalistej wysepce połączonej ze stałym lądem wąską groblą. Antyczne i średniowieczne budynki wspaniałej starówki wpisane są na Listę Światowego Dziedzictwa UNESCO, a blisko 40 cerkwi zachwyca turystów przybywających corocznie w to urocze miejsce. Imponujące budynki wznosili już Grecy, a bułgarscy władcy nie raz toczyli wojny z Bizancjum, przez co miasto często przechodziło z rąk do rąk. Pozostałości po dawnych dziejach podziwia się do dziś podczas spaceru po malowniczych uliczkach. Do miasta można dostać się przez groblę, której strzegą charakterystyczne wiatraki, a stojące przy spacerowym trakcie domy określa się mianem stylu czarnomorskiego. Wąskie uliczki wybrukowane są kocimi łbami. Uroku dodają im malutkie placyki z przytulnymi restauracyjkami, w których można skosztować lokalnych specjałów. Niejeden turysta zgubił się wśród dwukondygnacyjnych domów o kamiennych parterach i drewnianych, nadwieszonych nad ulicą piętrach, z kolei malutkie knajpki i kramy z pamiątkami zebrane na niewielkiej powierzchni mogłyby być tematem niejednego obrazu. Turyści wypoczywający i odwiedzający to miasto bardzo często korzystają z plaż w Słonecznym Brzegu, Burgas i Pomorie, gdzie bogata infrastruktura turystyczna sprawia, że wypoczynek w tym miejscu z pewnością będzie należał do udanych.</string>
+
+</resources>

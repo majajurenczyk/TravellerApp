@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChooseInfoFragment">
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent"
+        android:layout_gravity="center_vertical">
+
+        <RadioButton
+            android:id="@+id/hotel_desc"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:text="@string/opis_hotelu_option"
+            android:textColor="@color/colorAccentOrange"
+            android:layout_marginStart="20dp"
+            android:textSize="22sp" />
+
+        <RadioButton
+            android:id="@+id/local_desc"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:text="@string/lokalizacja_option"
+            android:textColor="@color/colorAccentOrange"
+            android:layout_marginStart="20dp"
+            android:textSize="22sp" />
+
+        <RadioButton
+            android:id="@+id/trips_desc"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:fontFamily="casual"
+            android:text="@string/wycieczki_option"
+            android:textColor="@color/colorAccentOrange"
+            android:layout_marginStart="20dp"
+            android:textSize="22sp" />
+    </RadioGroup>
+
+</LinearLayout>
